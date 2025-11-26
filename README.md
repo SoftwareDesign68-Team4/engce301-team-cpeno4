@@ -5,10 +5,11 @@ Software Design and Development
 กลุ่มที่ 4
 
 ## สมาชิกในกลุ่ม
-1. นายสรภูริ์ ทองจันทร์ 67543206069-6 [(GitHub)](https://github.com/maythiwat)
-2. นาย เต 675432060 [(GitHub)]()
-3. นาย กุน 675432060 [(GitHub)]()
-4. นาย ตั้ว 675432060 [(GitHub)]().
+1. นายสรภูริ์ ทองจันทร์ 67543206069-6 [(GitHub)](https://github.com/soraphu)
+2. นาย เต 675432060 [(GitHub)](https://github.com/techatum)
+3. นาย กุน 675432060 [(GitHub)](https://github.com/showkun396)
+4. นาย ตั้ว 675432060 [(GitHub)](https://github.com/Phitan27).
+5. นาย เฟรน 675432060 [(GitHub)](https://github.com/Kaitti109).
 
 ## ไฟล์สำคัญ
 - [ENVIRONMENT.md](./ENVIRONMENT.md)
