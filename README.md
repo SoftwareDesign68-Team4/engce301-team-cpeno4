@@ -6,7 +6,7 @@ Software Design and Development
 
 ## สมาชิกในกลุ่ม
 1. นาย สรภูริ์ ทองจันทร์ 67543206069-6 [(GitHub)](https://github.com/soraphu)
-2. นาย เตชธรรม  วงศ์ษา 67543206052-2 [(GitHub)]()
+2. นาย เตชธรรม  วงศ์ษา 67543206052-2 [(GitHub)](https://github.com/techatum)
 3. นาย ภูมิรพี กาวันนา 67543206018-3 [(GitHub)](https://github.com/showkun396/engce301-2_68)
 4. นาย พิธาน  กันปาน 67543206067-0 [(GitHub)](https://github.com/Phitan27)
 5. นาย เกียรติศักดิ์   อุปพรม 67543206002-7 [(GitHub)](https://github.com/Kaitti109)
