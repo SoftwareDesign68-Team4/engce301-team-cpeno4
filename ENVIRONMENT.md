@@ -21,7 +21,7 @@
 - Node.js version: v20.19.6
 - npm version: 10.8.2
 
-### นาย ภูมิรพี กาวันนา  
+### นาย ภูมิรพี กาวันนา
 - OS: Windows 10
 - Git version: 2.43.0
 - Node.js version: 24.11.1
