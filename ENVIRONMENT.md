@@ -22,10 +22,10 @@
 - npm version: 10.8.2
 
 ### นาย ภูมิรพี กาวันนา  
-- OS:
-- Git version:
-- Node.js version:
-- npm version: 
+- OS: Windows 10
+- Git version: 2.43.0
+- Node.js version: 24.11.1
+- npm version: 11.6.2
 
 
 ### นาย พิธาน กันปาน  
