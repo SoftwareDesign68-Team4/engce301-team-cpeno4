@@ -35,7 +35,7 @@
 - npm version: 11.6.2
 
 ### นาย เกียรติศักดิ์ อุปพรม 
-- OS:
-- Git version: 
-- Node.js version:
-- npm version: 
+- OS: Windows 10
+- Git version: git version 2.52.0.windows.1
+- Node.js version: v20.19.5
+- npm version: 10.8.2
