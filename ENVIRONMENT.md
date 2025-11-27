@@ -16,10 +16,10 @@
 - npm version: 10.9.2
 
 ### นาย เตชธรรม วงศ์ษา    
-- OS:
-- Git version:
-- Node.js version:
-- npm version: 
+- OS: Windows 11
+- Git version: 2.43.0
+- Node.js version: v20.19.6
+- npm version: 10.8.2
 
 ### นาย ภูมิรพี กาวันนา  
 - OS:
