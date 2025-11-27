@@ -29,10 +29,10 @@
 
 
 ### นาย พิธาน กันปาน  
-- OS:
-- Git version:
-- Node.js version:
-- npm version: 
+- OS: Windows 11
+- Git version: 2.52.0.windows.1
+- Node.js version: v24.11.1
+- npm version: 11.6.2
 
 ### นาย เกียรติศักดิ์ อุปพรม 
 - OS:
