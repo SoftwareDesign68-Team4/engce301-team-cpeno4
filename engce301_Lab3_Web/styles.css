@@ -62,7 +62,7 @@ a {
     justify-content: space-between;
     padding: 12px 20px;
     margin-bottom: 24px;
-    background: rgba(15, 23, 42, 0.9);
+    background: rgba(46, 34, 20, 0.9);
     border-radius: 999px;
     border: 1px solid var(--color-border);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.35);
@@ -76,6 +76,11 @@ a {
     align-items: center;
     gap: 10px;
 }
+
+.logorm{
+        width: 150px;
+        height: 50px;
+    }
 
 .logo-mark {
     background: var(--color-primary);
@@ -107,7 +112,7 @@ a {
 }
 
 .nav-link:hover {
-    background: rgba(148, 163, 184, 0.2);
+    background: rgba(203, 158, 22, 0.819);
     color: var(--color-text);
     transform: translateY(-1px);
 }
@@ -454,4 +459,5 @@ a {
     .status-row span:nth-child(2) {
         font-weight: 500;
     }
+    
 }
