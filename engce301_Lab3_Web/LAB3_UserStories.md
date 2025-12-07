@@ -87,19 +87,7 @@
 
 *(ใน HTML prototype อาจเป็นเพียง section อธิบาย “Instructor View” หรือ mock form)*
 
----
-
-### US-07 – View All Submissions (per Lab)
-**As an** instructor  
-**I want** to view a list of all student submissions for a lab  
-**So that** I can see who has submitted and who has not
-
-**Acceptance Criteria**  
-- ในหน้าผู้สอน (หรือ section mock-up) แสดงรายชื่อนักศึกษา และสถานะการส่ง (submitted / not submitted / late)  
-
----
-
-### US-08 – Grade a Submission
+### US-07 – Grade a Submission
 **As a** niversity officials 
 **I want** I want students to participate in monthly activities to clearly track their progress.
 **So that** I know the activities being held and the hours being given.
