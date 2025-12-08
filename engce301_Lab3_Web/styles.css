@@ -11,13 +11,13 @@
 /* ---------- 1. Design Tokens / Variables ---------- */
 :root {
     /* TODO: Student – กำหนดสีหลักของ Portal ให้ครบ 3–4 สี */
-    --color-bg: #0f172a;           /* background หลัก (ใส่สีที่ต้องการ) */
-    --color-surface: #111827;      /* พื้นของ card/section */
-    --color-primary: #3b82f6;      /* ปุ่มหลัก / highlight */
+    --color-bg: #644017;           /* background หลัก (ใส่สีที่ต้องการ) */
+    --color-surface: #644017;      /* พื้นของ card/section */
+    --color-primary: #864d18;      /* ปุ่มหลัก / highlight */
     --color-secondary: #22c55e;    /* ปุ่มรอง / accent */
     --color-text: #e5e7eb;         /* ตัวอักษรหลัก */
     --color-text-muted: #9ca3af;   /* ตัวอักษรรอง */
-    --color-border: #1f2937;       /* เส้นขอบ card/table */
+    --color-border: #ffffff;       /* เส้นขอบ card/table */
 
     --radius-card: 16px;
     --shadow-soft: 0 16px 30px rgba(0, 0, 0, 0.35);
