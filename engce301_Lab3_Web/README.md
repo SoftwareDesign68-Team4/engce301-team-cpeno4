@@ -1,7 +1,6 @@
 # WEEK 3
 
-### Product Backlog
-Product Backlog viewer link : [Miro](https://miro.com/app/board/uXjVJkXHY2U=/?share_link_id=88083812354)
+## Product Backlog : [Miro](https://miro.com/app/board/uXjVJkXHY2U=/?share_link_id=88083812354)
 
 ## 👥 Team Members (Group XX)
 | Name | Student ID | Role | GitHub |
