@@ -380,7 +380,7 @@ a {
     padding: 8px 10px;
     border-radius: 10px;
     border: 1px solid rgba(31, 41, 55, 0.9);
-    background: rgba(15, 23, 42, 0.9);
+    background: rgba(185, 145, 93, 0.445);
 }
 
 .status-row.status-header {
@@ -400,7 +400,7 @@ a {
 
 .status-done {
     background: rgba(0, 255, 94, 0.473);
-    color: #bbf7d0;
+    color: #ffffff;
 }
 
 .status-pending {
