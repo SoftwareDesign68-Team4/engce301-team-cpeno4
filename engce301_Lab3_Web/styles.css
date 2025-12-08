@@ -16,7 +16,7 @@
     --color-primary: #864d18;      /* ปุ่มหลัก / highlight */
     --color-bg: #0f172a;           /* background หลัก (ใส่สีที่ต้องการ) */
     --color-surface: #111827;      /* พื้นของ card/section */
-    --color-primary: #cb9e16d1;      /* ปุ่มหลัก / highlight */
+    --color-primary: #d1a41ce0;      /* ปุ่มหลัก / highlight */
     --color-secondary: #22c55e;    /* ปุ่มรอง / accent */
     --color-text: #e5e7eb;         /* ตัวอักษรหลัก */
     --color-text-muted: #9ca3af;   /* ตัวอักษรรอง */
