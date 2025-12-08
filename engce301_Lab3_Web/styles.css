@@ -271,7 +271,7 @@ a {
 }
 
 .content-card {
-    background: rgba(221, 95, 22, 0.603);
+    background: rgba(221, 95, 22, 0.24);
     border-radius: 16px;
     padding: 16px 18px;
     border: 1px solid var(--color-border);
@@ -404,13 +404,13 @@ a {
 }
 
 .status-pending {
-    background: rgba(245, 133, 4, 0.664);
+    background: rgba(245, 229, 4, 0.664);
     color: #ffffff; 
 }
 
 .status-late {
     background: rgba(255, 0, 0, 0.507);
-    color: #fecaca;
+    color: #ffffff;
 }
 
 /* แถว TODO ให้ดูต่างออกไปนิดหน่อย */
