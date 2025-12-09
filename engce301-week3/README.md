@@ -1,5 +1,5 @@
 # ENGCE301 - Lab3
-Software Design and Development
+**Software Design and Development**
 
 ## 👥 Team Members ( CPENO.4 )
 | Name | Student ID | Role | GitHub |
@@ -14,10 +14,9 @@ Software Design and Development
 ## ไฟล์สำคัญ
 - [Product Backlog](https://miro.com/app/board/uXjVJkXHY2U=/?share_link_id=88083812354) - User Stories ของระบบ Lab + Submission Portal
 - [Use Case Diagram](UseCaseL3.pdf) - Actors + Use Cases
-- [Use Case Scenarios]() - Main Flow + Alternative Flows
+- [Use Case Scenarios](LAB3_UseCaseExamples.md) - Main Flow + Alternative Flows
 
 ## Web Lab
-- [Home page](index.html) - หน้าแรกของเว็บ 
-- [My Labs page](my-labs.html) - ส่วนของการเข้าถึง
-- [About page](about.html) - หน้าแสดงรายละเอียด
-
+- [Home page](index.html) - หน้าแรกเว็บไซต์ ใช้สำหรับการเข้าถึงต่างๆ
+- [My Labs page](my-labs.html) - หน้าใช้ทำงาน หน้าหลักในการเข้าใช้งานโปรเซสการทำงานต่างๆของเว็บไซต์
+- [About page](about.html) - หน้าการแสดงรายละเอียดของเว็บไซต์
