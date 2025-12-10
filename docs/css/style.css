@@ -5,13 +5,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+}   
 
 :root {
     /* Color Palette */
-    --primary-color: #007bff;
+    --primary-color: #ff4d65;
     --secondary-color: #6c757d;
-    --accent-color: #28a745;
+    --accent-color: #e3f030;
     --danger-color: #dc3545;
     --light-color: #f8f9fa;
     --dark-color: #343a40;
