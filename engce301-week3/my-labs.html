@@ -31,62 +31,60 @@
     <main>
         <section class="section section-status">
             <header class="section-header">
-                <h2>My Lab Status</h2>
+                <h2>Event table</h2>
                 <p>
-                    This page extends <strong>US-03: View My Lab Status</strong>
-                    and can be used as a starting point for the real implementation.
+                    <strong>สถานะของกิจกรรมที่ถูกเสนอ/ยื่นเข้ามาสามารถดูได้ตามตารางดังนี้</strong>
                 </p>
             </header>
 
             <!-- TODO: Student – ปรับ mock data ให้ตรงกับ LAB จริงของกลุ่ม -->
             <div class="status-table">
                 <div class="status-row status-header">
-                    <span>Lab</span>
-                    <span>Title</span>
+                    <span>number</span>
+                    <span>Name Event</span>
                     <span>Status</span>
-                    <span>Score</span>
+                    <span>Answer</span>
                 </div>
 
                 <div class="status-row">
-                    <span>LAB 1</span>
-                    <span>HTML Structure &amp; Semantic</span>
-                    <span><span class="status-tag status-done">Submitted</span></span>
-                    <span>100 / 100</span>
-                </div>
+                        <span>Event 1</span>
+                        <span>Esport Day</span>
+                        <span><span class="status-tag status-done">Submitted</span></span>
+                        <span>pass</span>
+                    </div>
 
                 <div class="status-row">
-                    <span>LAB 2</span>
-                    <span>Requirements Elicitation</span>
-                    <span><span class="status-tag status-done">Submitted</span></span>
-                    <span>85 / 100</span>
-                </div>
+                        <span>Event 2</span>
+                        <span>Scyber security</span>
+                        <span><span class="status-tag status-done">Submitted</span></span>
+                        <span>pass</span>
+                    </div>
+
+                <div class="status-row todo">
+                        <span>Event 3</span>
+                        <span>Christmas Day</span>
+                        <span><span class="status-tag status-pending">TODO</span></span>
+                        <span>Fail</span>
+                    </div>
 
                 <div class="status-row">
-                    <span>LAB 3</span>
-                    <span>Agile Requirements &amp; Use Case Modeling</span>
-                    <span><span class="status-tag status-pending">Awaiting Submission</span></span>
-                    <span>–</span>
-                </div>
-
-                <div class="status-row">
-                    <span>LAB 4</span>
+                    <span>Event 4</span>
                     <span><!-- TODO: ชื่อ LAB 4 ของกลุ่ม --></span>
-                    <span><span class="status-tag status-late">Late</span></span>
+                    <span><span class="status-tag status-late"></span></span>
                     <span><!-- TODO: คะแนน / หมายเหตุ --></span>
                 </div>
 
                 <div class="status-row">
-                    <span>LAB 5</span>
+                    <span>Event 5</span>
                     <span><!-- TODO: ชื่อ LAB 5 ของกลุ่ม --></span>
-                    <span><span class="status-tag status-pending">Not Assigned</span></span>
-                    <span>–</span>
+                    <span><span class="status-tag status-pending"></span></span>
+                    <span></span>
                 </div>
             </div>
 
             <p class="section-note">
                 <!-- TODO: Student – เชื่อมโยงข้อความนี้กับ Late Submission Policy ใน SRS/Use Case -->
-                Status labels (Submitted / Late / Awaiting Submission) should follow
-                the Late Submission Policy defined in your SRS and UC-01 / UC-03.
+                Note: เกิดปัญหาตรงไหนหรือสอบถามรายละเอียด สามารถเข้ามาติดต่อที่แผนกเราได้วันและเวลาราชการเท่านั้น!
             </p>
         </section>
     </main>
