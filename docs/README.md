@@ -1,5 +1,5 @@
 # ENGCE301-TEAM04 [ CPENO.4 ]
-## ลิงค์ Deploy > [CPENO.4](https://softwaredesign68-team4.github.io/engce301-team-cpeno4/)
+## [CPENO.4 TEAM WEBSITE](https://softwaredesign68-team4.github.io/engce301-team-cpeno4/)
 
 ## สมาชิก
 | ชื่อ-สกุล | รหัส | ตำแหน่ง | Github |
