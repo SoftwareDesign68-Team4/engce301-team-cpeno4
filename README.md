@@ -1,7 +1,7 @@
 # ENGCE301-TEAM04 [ CPENO.4 ]
-## [CPENO.4 TEAM WEBSITE](https://softwaredesign68-team4.github.io/engce301-team-cpeno4/)
+## [`Team Website`](https://softwaredesign68-team4.github.io/engce301-team-cpeno4/)
 
-## สมาชิก
+## รายชื่อสมาชิก
 | ชื่อ-สกุล | รหัส | ตำแหน่ง | Github |
 |:-|:-|:-|:-|
 |นาย สรภูริ์ ทองจันทร์ | 67543206078-7 | Team Leader | [(GitHub)](https://github.com/soraphu) |
